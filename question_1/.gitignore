@@ -1,0 +1,23 @@
+# Python-related files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# IDE and text editor files
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Log files
+*.log
+
+
+# Miscellaneous
+.DS_Store
